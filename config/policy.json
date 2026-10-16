@@ -1,0 +1,29 @@
+{
+  "rules": {
+    "empty_aadhaar_field": "warn",
+    "empty_pan_field": "warn",
+    "personal_financial_update": "warn",
+    "date_of_birth": "redact",
+    "postal_address": "redact",
+    "bank_account": "redact",
+    "medical_record": "redact",
+    "employee_id": "redact",
+    "person_name": "mask",
+    "pan": "block",
+    "aadhar": "block",
+    "phone": "mask",
+    "email": "mask",
+    "api_key": "block",
+    "password": "block",
+    "secret": "block",
+    "private_key": "block",
+    "credit_card": "block",
+    "upi": "block",
+    "ifsc": "block",
+    "prompt_injection": "block",
+    "canary": "block",
+    "markdown_exfil": "redact",
+    "threat_intelligence": "block",
+    "sensitive_context_extraction": "block"
+  }
+}

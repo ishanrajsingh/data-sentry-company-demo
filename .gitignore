@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
+dist/
+.env
+*.pyc
+.DS_Store
+.streamlit/
+config/.hmac_master_key
+*.db
+*.db-*
+output/
+tmp/
+.codex-finalizer/
+.vscode/
