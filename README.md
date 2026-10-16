@@ -16,7 +16,7 @@ These previews are rendered from the deployed demo and API documentation.
 
 | Company assistant | API reference |
 | --- | --- |
-| ![Northstar Systems sign-in screen](https://image.thum.io/get/width/1200/noanimate/https://frontend-xi-lac-99.vercel.app/) | ![Data Sentry API documentation](https://image.thum.io/get/width/1200/noanimate/https://data-sentry-company-demo-production.up.railway.app/docs) |
+| <img width="1200" height="1200" alt="Screenshot 2026-10-16 at 9 26 33 PM" src="https://github.com/user-attachments/assets/8a736af8-660c-4636-b044-7bef3e7ab25a" /> | ![Data Sentry API documentation](https://image.thum.io/get/width/1200/noanimate/https://data-sentry-company-demo-production.up.railway.app/docs) |
 
 ## Run the local gateway
 
