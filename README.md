@@ -1,4 +1,4 @@
-# Data Sentry
+# Data Sentry [![M8ven Score](https://m8ven.ai/badge/mcp/ishanrajsingh-data-sentry-company-demo-1u6a8t?v=cd256103a9cf9794fa2b47898a5b0248)](https://m8ven.ai/mcp/ishanrajsingh-data-sentry-company-demo-1u6a8t?s=readme)
 
 Data Sentry is an AI security gateway that checks prompts, retrieval, and model responses before information crosses a trust boundary. The project includes a local security dashboard and a separately deployable company assistant demo with authenticated roles and synthetic employee records.
 
